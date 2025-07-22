@@ -1,0 +1,19 @@
+#EXTM3U tvg-url="https://i.mjh.nz/Brazil/all.xml"
+
+#EXTINF:-1 tvg-id="WWE24.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/WWE_Network_Logo.svg" group-title="Lutas",WWE 24/7
+http://example.com/wwe24
+
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/H2_Logo.png" group-title="Documentários",H2 Brasil
+http://example.com/h2br
+
+#EXTINF:-1 tvg-id="ID.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Investigation_Discovery.svg" group-title="Documentários",Investigação Discovery
+http://example.com/idbr
+
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/AXN_logo_2015.svg" group-title="Séries",AXN Brasil
+http://example.com/axnbr
+
+#EXTINF:-1 tvg-id="TNTSéries.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TNT_Series_logo.svg" group-title="Séries",TNT Séries
+http://example.com/tntseries
+
+#EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Universal_Channel_logo_2013.svg" group-title="Séries",Universal Brasil
+http://example.com/universalbr
